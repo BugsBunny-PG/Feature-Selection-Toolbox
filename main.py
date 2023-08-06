@@ -73,7 +73,7 @@ st.markdown(
 )
 
 def main():
-    st.title("Feature Selection Toolbox")
+    st.title("Feature Flex : Adaptive Feature Selection Toolkit")
 
     # Add an image to the website
     st.image("https://media.licdn.com/dms/image/D4D12AQEvmbuFNHsobA/article-cover_image-shrink_600_2000/0/1687623875560?e=2147483647&v=beta&t=DKZ9ILeRBD4L2SfR5ro3RILV210nMH89rJbXjiTart0", use_column_width=True)
@@ -90,7 +90,7 @@ def main():
 
     # Algorithm selection
     st.markdown("<div class='header algorithm-selector'>Algorithm Selection</div>", unsafe_allow_html=True)
-    algorithms = ["Genetic Algorithm", "Biogeography-Based Optimization Algorithm"]
+    algorithms = ["Genetic Algorithm", "Biogeography-Based Optimization Algorithm", "Partical Swarm Optimization"]
     selected_algorithm = st.selectbox("Select an algorithm", algorithms)
 
     # Perform feature selection

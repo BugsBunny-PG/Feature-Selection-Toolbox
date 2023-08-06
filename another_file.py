@@ -16,6 +16,10 @@ def perform_feature_selection(file,algo):
     if algo=='Genetic Algorithm':
         result=execute_notebook("multiobjectiveGeneticAlgorithm.ipynb", uploaded_file_name)
         print("Yes")
+    elif algo=='Partical Swarm Optimization':
+        print("PSO start")
+        result = execute_notebook("pso_self__multiobjective (1).ipynb", uploaded_file_name)
+        print("pso end")
     else:
        # Run testBBO2.ipynb through nbconvert and get the result CSV path
        result = execute_notebook("testBBO2.ipynb", uploaded_file_name)
