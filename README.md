@@ -15,10 +15,6 @@ To use the Feature Selection Toolbox, you can install it via pip. First, clone t
 ```bash
 python -m venv env 
 ```
-```bash
-#On Windows, use `env\Scripts\activate`
-```
-
 ### Use the pip install command to install the required packages:
   ```bash
 pip install -r requirements.txt
