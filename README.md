@@ -23,6 +23,7 @@ To use the Feature Selection Toolbox, you can install it via pip. First, clone t
 To start the web app, run the following command in your terminal:<br>
 <strong>streamlit run main.py</strong>
 
+# How It works?
 
-
+![Untitled Diagram drawio](https://github.com/BugsBunny-PG/Feature-Selection-Toolbox/assets/106425223/de4598cc-da3b-4f34-a56a-d53fb65387f0)
 
