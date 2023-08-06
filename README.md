@@ -12,16 +12,23 @@ The Feature Selection Toolbox provides a collection of algorithms and methods to
 ## Installation
 To use the Feature Selection Toolbox, you can install it via pip. First, clone this repository:
 ### create a virtual environment (optional but recommended):
-<strong>python -m venv env</strong> <br>
-
+```bash
+python -m venv env 
+```
+```bash
 #On Windows, use `env\Scripts\activate`
+```
 
 ### Use the pip install command to install the required packages:
-<strong>pip install -r requirements.txt</strong>
+  ```bash
+pip install -r requirements.txt
+```
 
 ## Usage
 To start the web app, run the following command in your terminal:<br>
-<strong>streamlit run main.py</strong>
+  ```bash
+streamlit run main.py
+  ```
 
 # How It works?
 
