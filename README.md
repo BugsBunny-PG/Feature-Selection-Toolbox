@@ -4,7 +4,11 @@
 Welcome to the Feature Selection Toolbox! This toolbox is designed to help you identify the most relevant features for your analyses, ensuring better model performance and more meaningful results. Whether you are working on classification, regression, or any other machine learning task, feature selection is a critical step in improving your model's efficiency and interpretability.
 
 The Feature Selection Toolbox provides a collection of algorithms and methods to perform feature selection on your dataset, making it easier for you to focus on the most informative attributes. It is written in Python and comes with a user-friendly Interface, allowing seamless integration into your existing projects.
-[Download Video Demo](https://vimeo.com/852704030?share=copy)
+
+
+
+https://github.com/BugsBunny-PG/Feature-Selection-Toolbox/assets/106425223/2e058c76-f53e-44d2-add5-6e91550bac43
+
 
 
 ## Installation
